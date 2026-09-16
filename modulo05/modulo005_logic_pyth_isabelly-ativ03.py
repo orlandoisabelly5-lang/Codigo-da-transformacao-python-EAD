@@ -1,9 +1,3 @@
-'''
-
-
-
-
-'''
 # 1 . Criando um arquivo TXT com o nome "nome_arquivo.txt" 
 # e escrevendo algumas informações nele.
 nome_arquivo = "dados_arquivo.txt"
